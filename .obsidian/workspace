@@ -89,14 +89,14 @@
   "active": "230dc48947620462",
   "lastOpenFiles": [
     "README.md",
+    "niveau2/WieVanDeDrie.md",
+    "niveau2/RaadHetNummer.md",
+    "niveau2/Muziekspeler.md",
+    "niveau2/MovingCharacter.md",
+    "niveau2/Filter.md",
+    "niveau2/Clock.md",
     "niveau1/Rekenmachine.md",
     "niveau1/QuoteOfTheDay.md",
-    "images/Quote-ui.png",
-    "niveau1/Kaartspel.md",
-    "images/speelkaart.jpeg",
-    "niveau1/FilmGenerator.md",
-    "niveau1/BackgroundGenerator.md",
-    "niveau1/AskHarrie.md",
-    "RaadHetNummer.md"
+    "images/Quote-ui.png"
   ]
 }
