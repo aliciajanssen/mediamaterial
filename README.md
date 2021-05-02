@@ -1,12 +1,12 @@
-# Extra opdrachten
+# Javascript  opdrachten
 
 ## Niveau *
-- [Film generator](FilmGenerator.md)
-- [Vraag het aan Harrie](AskHarrie.md)
-- [Kaartspel](Kaartspel.md)
-- [Background generator](BackgroundGenerator.md)
-- [Quote van de dag](QuoteOfTheDay.md)
-- [Rekenmachine](Rekenmachine.md)
+- [Film generator](niveau1/FilmGenerator.md)
+- [Vraag het aan Harrie](niveau1/AskHarrie.md)
+- [Kaartspel](niveau1/Kaartspel.md)
+- [Background generator](niveau1/BackgroundGenerator.md)
+- [Quote van de dag](niveau1/QuoteOfTheDay.md)
+- [Rekenmachine](niveau1/Rekenmachine.md)
 
 ## Niveau **
 - [Wie van de drie?](WieVanDeDrie.md)
@@ -14,6 +14,7 @@
 - [Filter](Filter.md)
 - [Muziekspeler](Muziekspeler.md)
 - [Bewegend karakter](MovingCharacter.md)
+- [Raad het nummer]()
 
 ## Niveau ***
 - [Niet weer applicatie (API)](Weather.md)
