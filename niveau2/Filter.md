@@ -2,7 +2,7 @@
 
 Je hebt een uitgebreide dvd collectie van de Disney films. Om een beetje overzicht te creëren maak je hier een webapplicatie voor. In deze webapplicatie kunnen de films gefilterd worden op decennium.
 
-![Film ui](images/Filter-ui.png)
+![Filter ui](images/Filter-ui.png)
 
 Maak van de films een unordered list en geef de films een decennium-class mee.
 

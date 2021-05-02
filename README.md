@@ -2,6 +2,7 @@
 
 ## Niveau *
 - [Film generator](niveau1/FilmGenerator.md)
+- [Raad het nummer](niveau1/RaadHetNummer.md)
 - [Vraag het aan Harrie](niveau1/AskHarrie.md)
 - [Kaartspel](niveau1/Kaartspel.md)
 - [Background generator](niveau1/BackgroundGenerator.md)
@@ -10,13 +11,16 @@
 
 ## Niveau **
 - [Wie van de drie?](niveau2/WieVanDeDrie.md)
+- [Boodschappenlijst](niveau2/Boodschappenlijst.md)
+- [Verstop de paaseieren](niveau2/Paaseieren.md)
 - [Digitale klok](niveau2/Clock.md)
 - [Filter](niveau2/Filter.md)
+- [Ticketmeester](niveau2/Ticketmeester.md)
+- [Gokje wagen](niveau2/GokjeWagen.md)
 - [Muziekspeler](niveau2/Muziekspeler.md)
 - [Bewegend karakter](niveau2/MovingCharacter.md)
-- [Raad het nummer](niveau2/RaadHetNummer.md)
 
 ## Niveau ***
-- [Niet weer applicatie (API)](Weather.md)
-- [Space Invaders](SpaceInvaders.md)
-- [Whac-a-mole](WhacAMole.md)
+- [Niet weer applicatie (API)](niveau3/Weather.md)
+- [Space Invaders](niveau3/SpaceInvaders.md)
+- [Whac-a-mole](niveau3/WhacAMole.md)
