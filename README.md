@@ -1,5 +1,13 @@
 # Javascript  opdrachten
 
+## Getting Started
+- [Getting Started](GettingStarted.md)
+
+## Variabelen
+- [Hello Naam](variabelen/HelloName.md)
+- [Rekensom](variabelen/Rekensom.md)
+
+
 ## Niveau *
 - [Film generator](niveau1/FilmGenerator.md)
 - [Raad het nummer](niveau1/RaadHetNummer.md)
@@ -22,6 +30,6 @@
 - [Bewegend karakter](niveau2/MovingCharacter.md)
 
 ## Niveau ***
-- [Niet weer applicatie (API)](niveau3/Weather.md)
+- [Niet weer applicatie (API)](Weather.md)
 - [Space Invaders](niveau3/SpaceInvaders.md)
 - [Whac-a-mole](niveau3/WhacAMole.md)
