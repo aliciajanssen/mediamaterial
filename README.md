@@ -1,7 +1,7 @@
 # Javascript  opdrachten
 
 ## Getting Started
-- [Getting Started](GettingStarted.md)
+- [Getting Started](gettingStarted/GettingStarted.md)
 
 ## Variabelen
 - [Hello Naam](variabelen/HelloName.md)
