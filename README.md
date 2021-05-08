@@ -14,6 +14,7 @@
 - [Boodschappenlijst](niveau2/Boodschappenlijst.md)
 - [Verstop de paaseieren](niveau2/Paaseieren.md)
 - [Digitale klok](niveau2/Clock.md)
+- [Blokkentoren](niveau2/Blokkentoren.md)
 - [Filter](niveau2/Filter.md)
 - [Ticketmeester](niveau2/Ticketmeester.md)
 - [Gokje wagen](niveau2/GokjeWagen.md)

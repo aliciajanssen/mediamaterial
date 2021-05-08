@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "niveau2/Ticketmeester.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "niveau2/Ticketmeester.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "230dc48947620462",
   "lastOpenFiles": [
-    "niveau2/Ticketmeester.md",
-    "niveau2/Boodschappenlijst.md",
     "README.md",
-    "niveau2/Boodschappen.md",
+    "niveau2/Blokkentoren.md",
+    "niveau2/Clock.md",
+    "niveau2/Boodschappenlijst.md",
     "niveau2/GokjeWagen.md",
-    "niveau1/Kaartspel.md",
+    "niveau1/BackgroundGenerator.md",
     "niveau2/MovingCharacter.md",
     "niveau2/Filter.md",
     "niveau2/Untitled.md",
-    "niveau2/Paaseieren.md"
+    "niveau2/Ticketmeester.md"
   ]
 }
