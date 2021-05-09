@@ -34,6 +34,6 @@
 - [Gokje wagen](niveau2/GokjeWagen.md) variabelen, DOM, events, functions, loops, random
 
 ### Niveau ***
-- [Niet weer applicatie (API)](Weather.md)
+- [Niet weer applicatie (API)](niveau3/Weather.md)
 - [Space Invaders](niveau3/SpaceInvaders.md)
 - [Whac-a-mole](niveau3/WhacAMole.md)
