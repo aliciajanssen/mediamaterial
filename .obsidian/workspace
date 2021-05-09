@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "niveau3/Weather.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "niveau3/Weather.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "230dc48947620462",
   "lastOpenFiles": [
+    "niveau3/Weather.md",
     "README.md",
     "niveau2/WieVanDeDrie.md",
     "niveau1/FilmGenerator.md",
@@ -96,7 +97,6 @@
     "variabelen/HelloName.md",
     "variabelen/Untitled.md",
     "gettingStarted/gettingStarted.md",
-    "niveau2/Boodschappenlijst.md",
-    "niveau2/GokjeWagen.md"
+    "niveau2/Boodschappenlijst.md"
   ]
 }
