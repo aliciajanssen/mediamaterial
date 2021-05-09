@@ -17,8 +17,8 @@
 - [Aan de oppervlakte](functions/Oppervlakte.md)
 - [Random number](functions/RandomNumber.md)
 
-### Dom en Objecten
-
+### DOM en Objecten
+- [Hot items](dom/HotItems.md)
 
 ## Gecombineerde opdrachten per niveau
 
