@@ -4,7 +4,7 @@ Maak een Wie van de drie webapplicatie. Bij deze webapplicatie heb je drie plaat
 Wanneer de speler op het plaatje klikt waaronder de joker klikt, krijgt de speler een punt. Wanneer de speler op een plaatje klikt waar geen joker zit, gaat er een punt vanaf.
 De joker verandert willekeurig van positie wanneer er op een plaatje wordt geklikt.
 
-![Quote ui](images/WieVanDeDrie-ui.png)
+![Wie van de drie ui](images/WieVanDeDrie-ui.png)
 
 ## Je maakt gebruikt van
 - variabelen [youtube](https://www.youtube.com/watch?v=HfWaYjRrIM4)

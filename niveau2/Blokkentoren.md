@@ -4,7 +4,7 @@ Maak een webapplicatie waarmee je een blokkentoren kan genereren. De gebruiker m
 
 ![ui](images/Blokkentoren-ui.png)
 
-Om de blokjes netjes op elkaar te stapelen is het handig om in je html een blocktower (id) div te hebben. In deze blocktower divs worden block divs (classes) gegenereerd.
+Om de blokjes netjes op elkaar te stapelen is het handig om in je html een blocktower (id) div te hebben. In deze blocktower div worden block divs (classes) gegenereerd.
 
 ```html
 <div id="blocktower">
