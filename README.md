@@ -9,6 +9,16 @@
 - [Hello Naam](variabelen/HelloName.md)
 - [Rekensom](variabelen/Rekensom.md)
 
+### If/else switch statements
+- [Jij bent oud!](keuzestructuren/YouAreOld.md)
+- [The Name of the Game](keuzestructuren/TheNameOfTheGame.md)
+
+### Functions
+- [Aan de oppervlakte](functions/Oppervlakte.md)
+- [Random number](functions/RandomNumber.md)
+
+### Dom en Objecten
+
 
 ## Gecombineerde opdrachten per niveau
 
