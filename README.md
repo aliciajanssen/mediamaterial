@@ -19,6 +19,7 @@
 
 ### DOM en Objecten
 - [Hot items](dom/HotItems.md)
+- [Wie is de ouder van?](dom/Parents.md)
 
 ## Gecombineerde opdrachten per niveau
 
