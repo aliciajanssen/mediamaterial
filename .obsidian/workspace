@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "arrays/Pokemon.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "arrays/Pokemon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "230dc48947620462",
   "lastOpenFiles": [
-    "README.md",
     "arrays/Pokemon.md",
+    "README.md",
     "dom/HotItems.md",
     "dom/Parents.md",
     "arrays/Untitled.md",
