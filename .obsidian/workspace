@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dom/HotItems.md",
+            "file": "dom/Parents.md",
             "mode": "source"
           }
         }
@@ -41,7 +41,7 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dom/HotItems.md",
+                "file": "dom/Parents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "230dc48947620462",
   "lastOpenFiles": [
+    "dom/Parents.md",
     "dom/HotItems.md",
+    "dom/Untitled.md",
     "functions/RandomNumber.md",
     "functions/Oppervlakte.md",
-    "dom/Untitled.md",
     "README.md",
     "functions/Untitled.md",
     "gettingStarted/GettingStarted.md",
     "variabelen/Rekensom.md",
-    "keuzestructuren/TheNameOfTheGame.md",
-    "keuzestructuren/YouAreOld.md"
+    "keuzestructuren/TheNameOfTheGame.md"
   ]
 }
