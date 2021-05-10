@@ -21,6 +21,9 @@
 - [Hot items](dom/HotItems.md)
 - [Wie is de ouder van?](dom/Parents.md)
 
+### Arrays
+- [Pokemon - Gotta catch them all!](arrays/Pokemon.md)
+
 ## Gecombineerde opdrachten per niveau
 
 ### Niveau *

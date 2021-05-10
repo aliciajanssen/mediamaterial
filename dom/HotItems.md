@@ -47,5 +47,5 @@ Probeer dit ook te doen met de losse items. Hiervoor gebruik je document.getElem
 - De DOM en Objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
 - Arrays [youtube](https://www.youtube.com/watch?v=Z-l1IAbq3qg)
 - HTML DOM getElementsByClassName() Method [w3schools](https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp)
-- HTML DOM getElementById() Method [w3schools](https://www.w3schools.com/jsref/met_document_getelementbyid.asp))
+- HTML DOM getElementById() Method [w3schools](https://www.w3schools.com/jsref/met_document_getelementbyid.asp)
 - Style background Property [w3schools](https://www.w3schools.com/jsref/prop_style_background.asp)
