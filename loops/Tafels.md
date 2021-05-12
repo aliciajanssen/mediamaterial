@@ -16,3 +16,8 @@ Maak gebruik van een [for-loop](https://www.w3schools.com/js/js_loop_for.asp) en
 
 ## Opdracht 2
 Maak dezelfde opdracht, maar maak nu gebruik van de [while-loop](https://www.w3schools.com/js/js_loop_while.asp). Wanneer de uitkomst hoger dan 20 is, stopt de while loop.
+
+## Je maakt gebruikt van
+- For Loop [w3schools](https://www.w3schools.com/js/js_loop_for.asp)
+- While loops [w3schools](https://www.w3schools.com/js/js_loop_while.asp)
+- Console [w3schools](https://www.w3schools.com/jsref/obj_console.asp)
