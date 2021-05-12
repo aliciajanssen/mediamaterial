@@ -23,6 +23,7 @@
 
 ### Arrays
 - [Pokemon - Gotta catch them all!](arrays/Pokemon.md)
+- [Willekeurige afbeelding](arrays/WillekeurigeAfbeelding.md)
 
 ## Gecombineerde opdrachten per niveau
 

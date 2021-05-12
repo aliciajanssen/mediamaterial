@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "arrays/Pokemon.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arrays/Pokemon.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "230dc48947620462",
   "lastOpenFiles": [
-    "arrays/Pokemon.md",
     "README.md",
-    "dom/HotItems.md",
-    "dom/Parents.md",
-    "arrays/Untitled.md",
-    "dom/Untitled.md",
+    "arrays/WillekeurigeAfbeelding.md",
+    "arrays/Pokemon.md",
     "functions/RandomNumber.md",
-    "functions/Oppervlakte.md",
-    "functions/Untitled.md",
-    "gettingStarted/GettingStarted.md"
+    "arrays/images/mozaiek-1.jpeg",
+    "arrays/Mozaiek.md",
+    "arrays/ListigeList.md",
+    "arrays/Untitled.md",
+    "dom/HotItems.md",
+    "dom/Parents.md"
   ]
 }
