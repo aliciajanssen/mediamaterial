@@ -30,7 +30,8 @@
 - [Willekeurige afbeelding](arrays/WillekeurigeAfbeelding.md)
 
 ### Events
-- 
+- [Push it!](events/PushIt.md)
+- [Cookie clicker](events/CookieClicker.md)
 
 ## Gecombineerde opdrachten per niveau
 

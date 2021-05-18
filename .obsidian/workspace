@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "events/CookieClicker.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "events/CookieClicker.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "230dc48947620462",
   "lastOpenFiles": [
+    "README.md",
     "events/CookieClicker.md",
     "arrays/WillekeurigeAfbeelding.md",
     "arrays/Pokemon.md",
     "events/Untitled.md",
-    "README.md",
     "loops/Tafels.md",
     "loops/Alert.md",
     "loops/Leeftijd.md",
