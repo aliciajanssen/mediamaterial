@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "loops/Tafels.md",
+            "file": "events/CookieClicker.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "loops/Tafels.md",
+                "file": "events/CookieClicker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "230dc48947620462",
   "lastOpenFiles": [
+    "events/CookieClicker.md",
+    "arrays/WillekeurigeAfbeelding.md",
+    "arrays/Pokemon.md",
+    "events/Untitled.md",
+    "README.md",
     "loops/Tafels.md",
     "loops/Alert.md",
-    "README.md",
-    "arrays/WillekeurigeAfbeelding.md",
     "loops/Leeftijd.md",
     "arrays/Untitled.md",
-    "arrays/Pokemon.md",
-    "dom/Parents.md",
-    "dom/HotItems.md",
-    "loops/Untitled.md"
+    "dom/Parents.md"
   ]
 }
