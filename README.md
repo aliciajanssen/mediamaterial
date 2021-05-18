@@ -67,7 +67,7 @@
 ## Bronnen
 
 ### Youtube instructies Alicia
-- [De introductie]](https://www.youtube.com/watch?v=CO0v2RkxCVo)
+- [De introductie](https://www.youtube.com/watch?v=CO0v2RkxCVo)
 - [Getting Started](https://www.youtube.com/watch?v=9B_JTznnV04)
 - [Variabelen](https://www.youtube.com/watch?v=HfWaYjRrIM4)
 - [Debuggen & comments](https://www.youtube.com/watch?v=XUYCOm38SWY)
@@ -84,4 +84,3 @@
 - [w3schools](https://www.w3schools.com/js/default.asp)
 - [Javascript Tutorials for Beginners](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 - [Codeacademy](https://www.codecademy.com/learn/introduction-to-javascript)
-- 
