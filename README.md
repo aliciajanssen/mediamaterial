@@ -1,41 +1,44 @@
-# Javascript  opdrachten
 
-## Opdrachten per onderwerp
+# Javascript
 
-### Getting Started
+## Opdrachten
+
+### Opdrachten per onderwerp
+
+#### Getting Started
 - [Getting Started](gettingStarted/GettingStarted.md)
 
-### Variabelen
+#### Variabelen
 - [Hello Naam](variabelen/HelloName.md)
 - [Rekensom](variabelen/Rekensom.md)
 
-### If/else switch statements
+#### If/else switch statements
 - [Jij bent oud!](keuzestructuren/YouAreOld.md)
 - [The Name of the Game](keuzestructuren/TheNameOfTheGame.md)
 
-### Functions
+#### Functions
 - [Aan de oppervlakte](functions/Oppervlakte.md)
 - [Random number](functions/RandomNumber.md)
 
-### DOM en Objecten
+#### DOM en Objecten
 - [Hot items](dom/HotItems.md)
 - [Wie is de ouder van?](dom/Parents.md)
 
-### Loops
+#### Loops
 - [Turbo melding!](loops/Alert.md)
 - [Tafels](loops/Tafels.md)
 
-### Arrays
+#### Arrays
 - [Pokemon - Gotta catch them all!](arrays/Pokemon.md)
 - [Willekeurige afbeelding](arrays/WillekeurigeAfbeelding.md)
 
-### Events
+#### Events
 - [Push it!](events/PushIt.md)
 - [Cookie clicker](events/CookieClicker.md)
 
-## Gecombineerde opdrachten per niveau
+### Gecombineerde opdrachten per niveau
 
-### Niveau *
+#### Niveau *
 - [Background generator](niveau1/BackgroundGenerator.md) variabelen, DOM, events, functions, random
 - [Rekenmachine](niveau1/Rekenmachine.md) variabelen, DOM, events, functions
 - [Film generator](niveau1/FilmGenerator.md) variabelen, DOM, functions, events, array, random
@@ -44,7 +47,7 @@
 - [Raad het nummer](niveau1/RaadHetNummer.md) variabelen, DOM, functions, events, if/else, random
 - [Vraag het aan Harrie](niveau1/AskHarrie.md) variabelen, DOM, functions, events, if/else
 
-### Niveau **
+#### Niveau **
 - [Wie van de drie?](niveau2/WieVanDeDrie.md) variabelen, DOM, events, functions, random
 - [Boodschappenlijst](niveau2/Boodschappenlijst.md) variabelen, DOM, events, functions
 - [Ticketmeester](niveau2/Ticketmeester.md) variabelen, DOM, events, functions
@@ -56,7 +59,29 @@
 - [Blokkentoren](niveau2/Blokkentoren.md) variabelen, DOM, events, functions, array, loops, random
 - [Gokje wagen](niveau2/GokjeWagen.md) variabelen, DOM, events, functions, loops, random
 
-### Niveau ***
+#### Niveau ***
 - [Niet weer applicatie (API)](niveau3/Weather.md)
 - [Space Invaders](niveau3/SpaceInvaders.md)
 - [Whac-a-mole](niveau3/WhacAMole.md)
+
+## Bronnen
+
+### Youtube instructies Alicia
+- [De introductie]](https://www.youtube.com/watch?v=CO0v2RkxCVo)
+- [Getting Started](https://www.youtube.com/watch?v=9B_JTznnV04)
+- [Variabelen](https://www.youtube.com/watch?v=HfWaYjRrIM4)
+- [Debuggen & comments](https://www.youtube.com/watch?v=XUYCOm38SWY)
+- [If Else Switch Statements](https://www.youtube.com/watch?v=ndXEEG3kZOU)
+- [Functions](https://www.youtube.com/watch?v=zC5cvaETdyQ)
+- [Client vs Server Side Scripting](https://www.youtube.com/watch?v=2xDaxtpwPnk)
+- [DOM en Objecten](https://www.youtube.com/watch?v=k81rBKqwDhU)
+- [Arrays](https://www.youtube.com/watch?v=Z-l1IAbq3qg)
+- [Loops](https://www.youtube.com/watch?v=8wJPgDNwxtE)
+- [Events](https://www.youtube.com/watch?v=6jYEabxJXxg)
+- [Scoping](https://www.youtube.com/watch?v=CD1prUUhisI)
+
+### Andere bronnen
+- [w3schools](https://www.w3schools.com/js/default.asp)
+- [Javascript Tutorials for Beginners](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+- [Codeacademy](https://www.codecademy.com/learn/introduction-to-javascript)
+- 
