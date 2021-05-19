@@ -63,6 +63,8 @@
 - [Niet weer applicatie (API)](niveau3/Weather.md)
 - [Space Invaders](niveau3/SpaceInvaders.md)
 - [Whac-a-mole](niveau3/WhacAMole.md)
+- [Memory](niveau3/Memory.md)
+- [Takenlijst met een database](niveau3/Takenlijst.md)
 
 ## Bronnen
 
