@@ -1,9 +1,9 @@
 
 # Javascript
 
-## Opdrachten
+## Oefeningen & opdrachten
 
-### Opdrachten per onderwerp
+### Oefeningen per onderwerp
 
 #### Getting Started
 - [Getting Started](gettingStarted/GettingStarted.md)
