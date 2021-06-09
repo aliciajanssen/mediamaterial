@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "dom/ButtonMania.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "dom/ButtonMania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "230dc48947620462",
   "lastOpenFiles": [
+    "dom/ButtonMania.md",
     "README.md",
-    "niveau3/Untitled.md",
-    "niveau3/Memory.md",
-    "niveau3/SpaceInvaders.md",
-    "events/CookieClicker.md",
-    "arrays/WillekeurigeAfbeelding.md",
-    "arrays/Pokemon.md",
-    "events/Untitled.md",
+    "variabelen/Rekensom.md",
+    "variabelen/HelloName.md",
+    "dom/HotItems.md",
+    "dom/Parents.md",
     "loops/Tafels.md",
-    "loops/Alert.md"
+    "loops/Alert.md",
+    "events/CookieClicker.md",
+    "dom/Untitled.md"
   ]
 }
