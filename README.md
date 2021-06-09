@@ -23,6 +23,7 @@
 #### DOM en Objecten
 - [Hot items](dom/HotItems.md)
 - [Wie is de ouder van?](dom/Parents.md)
+- [Buttonmania!](dom/Buttonmania.md)
 
 #### Loops
 - [Turbo melding!](loops/Alert.md)
