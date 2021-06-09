@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "variabelen/Rekensom.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "variabelen/Rekensom.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "230dc48947620462",
   "lastOpenFiles": [
+    "README.md",
     "variabelen/Rekensom.md",
     "variabelen/HelloName.md",
-    "README.md",
     "dom/ButtonMania.md",
     "dom/HotItems.md",
     "dom/Parents.md",
