@@ -1,5 +1,5 @@
 
-# Javascript test
+# Javascript
 
 ## Oefeningen & opdrachten
 
