@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dom/ButtonMania.md",
-            "mode": "source"
+            "file": "functions/Something div-ferent.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dom/ButtonMania.md",
+                "file": "functions/Something div-ferent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "230dc48947620462",
   "lastOpenFiles": [
+    "functions/Something div-ferent.md",
     "dom/ButtonMania.md",
+    "functions/Oppervlakte.md",
+    "functions/RandomNumber.md",
+    "functions/Untitled.md",
     "README.md",
     "variabelen/Rekensom.md",
     "variabelen/HelloName.md",
     "dom/HotItems.md",
-    "dom/Parents.md",
-    "loops/Tafels.md",
-    "loops/Alert.md",
-    "events/CookieClicker.md",
-    "dom/Untitled.md"
+    "dom/Parents.md"
   ]
 }
