@@ -19,15 +19,16 @@
 #### Functions
 - [Aan de oppervlakte](functions/Oppervlakte.md)
 - [Random number](functions/RandomNumber.md)
+- [Something div-ferent](functions/Somethingdivferent.md)
 
 #### DOM en Objecten
 - [Hot items](dom/HotItems.md)
 - [Wie is de ouder van?](dom/Parents.md)
-- [Buttonmania!](dom/ButtonMania.md)
 
 #### Loops
 - [Turbo melding!](loops/Alert.md)
 - [Tafels](loops/Tafels.md)
+- [Buttonmania!](loops/ButtonMania.md)
 
 #### Arrays
 - [Pokemon - Gotta catch them all!](arrays/Pokemon.md)

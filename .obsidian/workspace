@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dom/ButtonMania.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dom/ButtonMania.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "230dc48947620462",
   "lastOpenFiles": [
-    "dom/ButtonMania.md",
     "README.md",
+    "functions/Something div-ferent.md",
+    "dom/ButtonMania.md",
+    "functions/Oppervlakte.md",
+    "functions/RandomNumber.md",
+    "functions/Untitled.md",
     "variabelen/Rekensom.md",
     "variabelen/HelloName.md",
     "dom/HotItems.md",
-    "dom/Parents.md",
-    "loops/Tafels.md",
-    "loops/Alert.md",
-    "events/CookieClicker.md",
-    "dom/Untitled.md"
+    "dom/Parents.md"
   ]
 }
