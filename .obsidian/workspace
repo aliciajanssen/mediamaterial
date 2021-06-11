@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "functions/Something div-ferent.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functions/Something div-ferent.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "230dc48947620462",
   "lastOpenFiles": [
+    "README.md",
     "functions/Something div-ferent.md",
     "dom/ButtonMania.md",
     "functions/Oppervlakte.md",
     "functions/RandomNumber.md",
     "functions/Untitled.md",
-    "README.md",
     "variabelen/Rekensom.md",
     "variabelen/HelloName.md",
     "dom/HotItems.md",

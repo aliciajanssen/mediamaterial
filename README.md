@@ -19,6 +19,7 @@
 #### Functions
 - [Aan de oppervlakte](functions/Oppervlakte.md)
 - [Random number](functions/RandomNumber.md)
+- [Something div-ferent](functions/Somethingdivferent.md)
 
 #### DOM en Objecten
 - [Hot items](dom/HotItems.md)
