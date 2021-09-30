@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "keuzestructuren/Spooky.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "keuzestructuren/Spooky.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "230dc48947620462",
   "lastOpenFiles": [
+    "README.md",
     "keuzestructuren/Spooky.md",
     "keuzestructuren/TheNameOfTheGame.md",
     "keuzestructuren/Untitled.md",
-    "README.md",
     "functions/Something div-ferent.md",
     "dom/ButtonMania.md",
     "functions/Oppervlakte.md",

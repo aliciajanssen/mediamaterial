@@ -13,8 +13,9 @@
 - [Rekensom](variabelen/Rekensom.md)
 
 #### If/else switch statements
-- [Jij bent oud!](keuzestructuren/YouAreOld.md)
-- [The Name of the Game](keuzestructuren/TheNameOfTheGame.md)
+- [Jij bent oud!](keuzestructuren/YouAreOld)
+- [The Name of the Game](keuzestructuren/TheNameOfTheGame)
+- [Spooky](keuzestructuren/Spooky)
 
 #### Functions
 - [Aan de oppervlakte](functions/Oppervlakte.md)
