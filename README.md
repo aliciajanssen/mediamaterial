@@ -43,6 +43,7 @@
 
 #### Niveau *
 - [Background generator](niveau1/BackgroundGenerator.md) variabelen, DOM, events, functions, random
+- [Business Kees](niveau1/BusinessKees) variabelen, DOM, events, functions
 - [Rekenmachine](niveau1/Rekenmachine.md) variabelen, DOM, events, functions
 - [Film generator](niveau1/FilmGenerator.md) variabelen, DOM, functions, events, array, random
 - [Quote van de dag](niveau1/QuoteOfTheDay.md) variabelen, DOM, functions, events, array, random
