@@ -6,11 +6,11 @@
 ### Oefeningen per onderwerp
 
 #### Getting Started
-- [Getting Started](gettingStarted/GettingStarted.md)
+- [Getting Started](gettingStarted/GettingStarted)
 
 #### Variabelen
-- [Hello Naam](variabelen/HelloName.md)
-- [Rekensom](variabelen/Rekensom.md)
+- [Hello Naam](variabelen/HelloName)
+- [Rekensom](variabelen/Rekensom)
 
 #### If/else switch statements
 - [Jij bent oud!](keuzestructuren/YouAreOld)
@@ -18,9 +18,9 @@
 - [Spooky](keuzestructuren/Spooky)
 
 #### Functions
-- [Aan de oppervlakte](functions/Oppervlakte.md)
-- [Random number](functions/RandomNumber.md)
-- [Something div-ferent](functions/Somethingdivferent.md)
+- [Aan de oppervlakte](functions/Oppervlakte)
+- [Random number](functions/RandomNumber)
+- [Something div-ferent](functions/Somethingdivferent)
 
 #### DOM en Objecten
 - [Hot items](dom/HotItems.md)
