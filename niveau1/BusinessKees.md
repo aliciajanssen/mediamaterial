@@ -4,7 +4,7 @@ Business Kees werkt als projectmanager bij Poppodium 013 in Tilburg. Om alles in
 
 Het moet er ongeveer zo uit komen te zien:
 
-![Background ui](images/Background-ui.png)
+![Background ui](images/BusinessKees-ui.png)
 
 ## Je maakt gebruikt van
 - variabelen [youtube](https://www.youtube.com/watch?v=HfWaYjRrIM4)
