@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "keuzestructuren/Spooky.md",
+            "file": "niveau1/BusinessKees.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "keuzestructuren/Spooky.md",
+                "file": "niveau1/BusinessKees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "230dc48947620462",
   "lastOpenFiles": [
+    "niveau1/BusinessKees.md",
+    "niveau1/BackgroundGenerator.md",
+    "niveau1/AskHarrie.md",
+    "niveau1/FilmGenerator.md",
+    "niveau1/images/BusinessKees.drawio.png",
+    "niveau1/Untitled.md",
     "keuzestructuren/Spooky.md",
     "keuzestructuren/YouAreOld.md",
     "keuzestructuren/TheNameOfTheGame.md",
-    "README.md",
-    "keuzestructuren/Untitled.md",
-    "functions/Something div-ferent.md",
-    "dom/ButtonMania.md",
-    "functions/Oppervlakte.md",
-    "functions/RandomNumber.md",
-    "functions/Untitled.md"
+    "README.md"
   ]
 }
