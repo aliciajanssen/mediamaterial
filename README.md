@@ -59,6 +59,7 @@
 - [Muziekspeler](niveau2/Muziekspeler.md) variabelen, DOM, events, functions, audio
 - [Bewegend karakter](niveau2/MovingCharacter.md) variabelen, DOM, events, functions, setInterval
 - [Filter](niveau2/Filter.md) variabelen, DOM, events, functions
+- [De Weide Wereld](niveau2/DeWeideWereld) variabelen, DOM, events, functions
 - [Verstop de paaseieren](niveau2/Paaseieren.md) variabelen, DOM, events, functions, array, random
 - [Blokkentoren](niveau2/Blokkentoren.md) variabelen, DOM, events, functions, array, loops, random
 - [Gokje wagen](niveau2/GokjeWagen.md) variabelen, DOM, events, functions, loops, random
