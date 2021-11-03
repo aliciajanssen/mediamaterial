@@ -29,6 +29,8 @@ Sorteer nog de pokemon op alfabet en laat deze in de pokemon-div zien. Maak gebr
 ## Opdracht 4
 *Een mooie uitbreiding: maak een zoekfunctie waarmee je pokemon kan vinden. Maak gebruik van de [find methode](https://www.w3schools.com/jsref/jsref_find.asp). *
 
+![ui](images/pokemon-ui.png)
+
 ## Je maakt gebruikt van
 - De DOM en Objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
 - Arrays [youtube](https://www.youtube.com/watch?v=Z-l1IAbq3qg)
