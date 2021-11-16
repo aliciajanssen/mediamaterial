@@ -23,21 +23,22 @@
 - [Something div-ferent](functions/Somethingdivferent)
 
 #### DOM en Objecten
-- [Hot items](dom/HotItems.md)
-- [Wie is de ouder van?](dom/Parents.md)
+- [Hot items](dom/HotItems)
+- [Wie is de ouder van?](dom/Parents)
 
 #### Loops
-- [Turbo melding!](loops/Alert.md)
-- [Tafels](loops/Tafels.md)
-- [Buttonmania!](loops/ButtonMania.md)
+- [Turbo melding!](loops/Alert)
+- [Tafels](loops/Tafels)
+- [Buttonmania!](loops/ButtonMania)
 
 #### Arrays
-- [Pokemon - Gotta catch 'em all!](arrays/Pokemon.md)
-- [Willekeurige afbeelding](arrays/WillekeurigeAfbeelding.md)
+- [Pokemon - Gotta catch 'em all!](arrays/Pokemon)
+- [Willekeurige afbeelding](arrays/WillekeurigeAfbeelding)
 
 #### Events
-- [Push it!](events/PushIt.md)
-- [Cookie clicker](events/CookieClicker.md)
+- [Push it!](events/PushIt)
+- [Cookie clicker](events/CookieClicker)
+- [Easter Eggs](events/EasterEgg)
 
 ### Gecombineerde opdrachten per niveau
 
