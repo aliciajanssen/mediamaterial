@@ -1,4 +1,4 @@
-# Pokemon - Gotta catch them all!
+# Pokemon - Gotta catch 'em all!
 
 ## Opdracht 1
 
@@ -27,7 +27,7 @@ Laat deze pokemon zien in een div op de webpagina. Hiervoor maak je een lege div
 Sorteer nog de pokemon op alfabet en laat deze in de pokemon-div zien. Maak gebruik van de [sort methode](https://www.w3schools.com/jsref/jsref_sort.asp).
 
 ## Opdracht 4
-*Een mooie uitbreiding: maak een zoekfunctie waarmee je pokemon kan vinden. Maak gebruik van de [find methode](https://www.w3schools.com/jsref/jsref_find.asp). *
+*Een mooie uitbreiding: maak een zoekfunctie waarmee je 1 pokemon kan vinden. Maak gebruik van de [find methode](https://www.w3schools.com/jsref/jsref_find.asp). Wil je meer pokemon tegelijkertijd vinden? Maak dan gebruik van de [filter methode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter?retiredLocale=nl).*
 
 ![ui](images/pokemon-ui.png)
 
@@ -39,3 +39,4 @@ Sorteer nog de pokemon op alfabet en laat deze in de pokemon-div zien. Maak gebr
 - Array Push [w3schools](https://www.w3schools.com/jsref/jsref_push.asp)
 - Sort methode [w3schools](https://www.w3schools.com/jsref/jsref_sort.asp)
 - Find methode [w3schools](https://www.w3schools.com/jsref/jsref_find.asp)
+- Filter methode [developer mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter?retiredLocale=nl)
