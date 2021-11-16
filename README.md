@@ -38,7 +38,7 @@
 #### Events
 - [Push it!](events/PushIt)
 - [Cookie clicker](events/CookieClicker)
-- [Easter Eggs](events/EasterEgg)
+- [Easter Eggs](events/EasterEgg) 
 
 ### Gecombineerde opdrachten per niveau
 
