@@ -43,10 +43,11 @@
 ### Gecombineerde opdrachten per niveau
 
 #### Niveau *
-- [Background generator](niveau1/BackgroundGenerator.md) variabelen, DOM, events, functions, random
-- [Business Kees](niveau1/BusinessKees) variabelen, DOM, events, functions
+- [Background generator](niveau1/BackgroundGenerator) variabelen, DOM, events, functions, random
+- [Liefdesgedicht generator](niveau1/Liefdesgedicht) variabelen, DOM, events, functions
 - [Rekenmachine](niveau1/Rekenmachine.md) variabelen, DOM, events, functions
 - [Film generator](niveau1/FilmGenerator.md) variabelen, DOM, functions, events, array, random
+- [Business Kees](niveau1/BusinessKees) variabelen, DOM, events, functions
 - [Quote van de dag](niveau1/QuoteOfTheDay.md) variabelen, DOM, functions, events, array, random
 - [Kaartspel](niveau1/Kaartspel.md) variabelen, DOM, functions, events, array, loops
 - [Raad het nummer](niveau1/RaadHetNummer.md) variabelen, DOM, functions, events, if/else, random

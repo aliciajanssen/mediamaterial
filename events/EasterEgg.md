@@ -7,7 +7,7 @@ Maak een Rick-roll easteregg voor op een webpagina. Wanneer de internetbezoeker:
 - de pagina scrollt
 - *never gonna give you up* typt
 
-laat je de video van [Rick Ashley](https://www.youtube.com/watch?v=dQw4w9WgXcQ) zien!
+laat je de video van [Rick Astley](https://www.youtube.com/watch?v=dQw4w9WgXcQ) zien!
 
 ## Je maakt gebruikt van
 - De DOM en Objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
