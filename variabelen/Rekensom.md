@@ -2,8 +2,8 @@
 
 Maak de twee variabelen cijfer1 en cijfer 2 aan. Geef cijfer1 een waarde van 3 en cijfer2 een waarde van 4.
 ```javascript
-var cijfer1 = 3;
-var cijfer2 = 4;
+let cijfer1 = 3;
+let cijfer2 = 4;
 ```
 
 Laat in de console eerst de waarde van cijfer1 en daarna de waarde van cijfer2 zien.

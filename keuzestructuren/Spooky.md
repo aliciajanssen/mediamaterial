@@ -4,8 +4,8 @@ Durf jij het aan om een Spooky webapplicatie te maken? Dan is deze opdracht wat 
 Maak een webapplicatie met een variabele "heks" met waarde "weg" en variabele "zombie" met waarde "weg". 
 
 ```javascript
-var heks = "weg";
-var zombie = "weg";
+let heks = "weg";
+let zombie = "weg";
 ```
 
 Maak een if/else statement met:

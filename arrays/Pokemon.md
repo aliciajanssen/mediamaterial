@@ -4,7 +4,7 @@
 
 Een array is een variabele waar meer variabelen in zitten. Voor deze oefening maak je de array "pokemon" aan. In deze array stop je pokemon. Hoeveel, mag je zelf bepalen.
 ```javascript
-var pokemon = [  
+let pokemon = [  
  "Slowbro",  
  "Pikachu",  
  "Charmander"  

@@ -3,7 +3,7 @@
 Maak een webapplicatie met een variabele "leeftijd".
 
 ```javascript
-var leeftijd = 21;
+let leeftijd = 21;
 ```
 
 Wanneer de leeftijd hoger is dan 93 moet er dmv een if/else statement een melding (console.log of alert) komen die zegt "Jij bent oud!". Als de leeftijd jonger of gelijk dan 93 is een melding met "Jij bent nog niet zo oud".
@@ -43,7 +43,7 @@ Maak ook een **switch statement** met:
 - anders: "Je bent geen 13, 17, 45 of 101"
 
 ```javascript
-var nummer = 10;
+let nummer = 10;
 
 switch(nummer) {  
 	case 12:  

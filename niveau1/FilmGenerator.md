@@ -4,7 +4,7 @@ Je zit 's avonds met je kat of partner op de bank. Je hebt al voor de vijfde kee
 
 ```javascript
 //voorbeeld array
-var moviesSeries = ["The Shining", "Emily in Paris", "The Sinner", "Peaky Blinders", "Notting Hill"];
+let moviesSeries = ["The Shining", "Emily in Paris", "The Sinner", "Peaky Blinders", "Notting Hill"];
 ```
 
 ![Film ui](images/Film-ui.png)

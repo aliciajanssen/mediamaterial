@@ -3,7 +3,7 @@
 Maak een webapplicatie met de function "GenerateDIV". Met deze function wordt er een nieuwe div gegenereerd. Hiervoor moet je [createElement](https://www.w3schools.com/jsref/met_document_createelement.asp) function gebruiken. Je zou dit als uitgangspunt kunnen nemen:
 
 ```javascript
-var field = document.getElementById("field");
+let field = document.getElementById("field");
 
 
 function GenerateDIV()
@@ -11,7 +11,7 @@ function GenerateDIV()
 	//genereer div
 }
 
-var div = GenerateDIV();
+let div = GenerateDIV();
 
 //div wordt toegevoegd aan de pagina (div field)
 field.appendChild(div);
@@ -20,7 +20,7 @@ field.appendChild(div);
 Zorg er nu voor dat je als parameter een kleur voor de div kan meegeven. Wanneer je bijv. de kleur "blue" meegeeft, wordt de div blauw.
 
 ```javascript
-var field = document.getElementById("field");
+let field = document.getElementById("field");
 
 //bgColor is parameter
 function GenerateDIV(bgColor)
@@ -28,7 +28,7 @@ function GenerateDIV(bgColor)
 	//genereer div
 }
 
-var div = GenerateDIV("blue");
+let div = GenerateDIV("blue");
 
 //div wordt toegevoegd aan de pagina (div field)
 field.appendChild(div);

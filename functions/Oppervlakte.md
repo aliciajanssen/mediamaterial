@@ -9,7 +9,7 @@ function BerekenOppRechthoek(lengte, breedte)
 	return oppervlakte
 }
 
-var oppervlakte = BerekenOppRechthoek(3, 4); //hier komt 12 uit
+let oppervlakte = BerekenOppRechthoek(3, 4); //hier komt 12 uit
 ```
 
 Maak nog een function waarmee de **oppervlakte van een cirkel** berekend kan worden. Voor de wiskundige onder ons: om de oppervlakte berekening van een cirkel bestaat deze berekening: 

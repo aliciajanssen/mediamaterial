@@ -31,13 +31,13 @@ Je ziet dat er nog geen achtergrondkleur aan is toegevoegd. Je gaat de achtergro
 Maak een aparte variabele "hotitems" aan waar je dmv document.getElementById het hotitems object ophaalt. 
 
 ```javascript
-var hotitems = document.getElementById("hotitems");
+let hotitems = document.getElementById("hotitems");
 ```
 
 Nu je van hotitems een object hebt gemaakt, is het makkelijk om de achtergrond aan te passen.
 
 ```javascript
-var hotitems = document.getElementById("hotitems");
+let hotitems = document.getElementById("hotitems");
 hotitems.style.background = "green";
 ```
 

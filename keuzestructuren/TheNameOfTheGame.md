@@ -3,8 +3,8 @@
 Maak een webapplicatie met een variabele "naam1" met waarde "Agneta" en variabele "naam2" met waarde "Anni-Frid". 
 
 ```javascript
-var naam1 = "Agneta";
-var naam2 = "Anni-Frid"
+let naam1 = "Agneta";
+let naam2 = "Anni-Frid"
 ```
 
 Maak een if/else statement met:

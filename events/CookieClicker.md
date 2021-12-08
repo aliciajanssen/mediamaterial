@@ -18,7 +18,7 @@ Om de Cookie Clicker te laten werken moet je eerst een click-event voor de cooki
 Maak het eerst zo dat wanneer je op de cookie clickt er een Alert met "ik heb erop geklikt" tevoorschijn komt.
 
 ```javascript
-var cookieElement = document.getElementById("cookie");
+let cookieElement = document.getElementById("cookie");
 cookieElement.addEventListener("click", addScore);
 
 function addScore()
@@ -32,7 +32,7 @@ function addScore()
 Wanneer dit is gelukt is het tijd voor de volgende stap. Je moet een extra variabele toevoegen, namelijk de variabele voor de score. Je geeft de variabele de waarde 0. Deze variabele staat buiten de addScore function.
 
 ```javascript
-var score = 0;
+let score = 0;
 ```
 
 Nu moet je zorgen dat wanneer er op de cookie wordt geklikt de waarde van score wordt opgehoogd met 1 punt. Laat ipv "ik heb erop geklikt" de waarde in de Alert zien.
@@ -41,7 +41,7 @@ Nu moet je zorgen dat wanneer er op de cookie wordt geklikt de waarde van score 
 De laatste stap om ipv het in de Alert te laten waargeven, het op de pagina te laten zien. Hiervoor kan je de [innerHTML property](https://www.w3schools.com/jsref/prop_html_innerhtml.asp) gebruiken.
 
 ```javascript
-var scoreElement = document.getElementById("score");
+let scoreElement = document.getElementById("score");
 scoreElement.innerHTML = ....
 ```
 

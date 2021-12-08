@@ -16,7 +16,7 @@ Voorbeeld mappenstructuur:
 
 ```javascript
 //voorbeeld van array
-var images = [  
+let images = [  
  "schoenen.jpg",  
  "kabouter.png",  
  "frikandel.jpg"  
