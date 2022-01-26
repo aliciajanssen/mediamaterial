@@ -44,7 +44,7 @@ Var is een oude manier van variabelen aanmaken. Als je dit ziet, roep dan: GO BA
 
 ## Je maakt gebruikt van
 - Getting Started [youtube](https://www.youtube.com/watch?v=9B_JTznnV04)
-- Variabelen [youtube](https://www.youtube.com/watch?v=HfWaYjRrIM4)
+- Variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
 - Variabelen [w3schools](https://www.w3schools.com/js/js_variables.asp)
 - Net Ninja - Modern Javascript Tutorial - Syntax Basics & Types [youtube](https://www.youtube.com/watch?v=FhguwBJeqWs)
 - Alert [w3schools](https://www.w3schools.com/jsref/met_win_alert.asp)

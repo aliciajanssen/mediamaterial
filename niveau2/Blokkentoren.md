@@ -38,7 +38,7 @@ Genereer eerst de blokjes zonder achtergrondkleur. Je zou gebruik kunnen maken v
 Om de achtergrond kleur aan te passen, zou je naar de [Background generator](../niveau1/BackgroundGenerator.md) opdracht kunnen kijken.
 
 ## Je maakt gebruikt van
-- variabelen [youtube](https://www.youtube.com/watch?v=HfWaYjRrIM4)
+- variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
 - debuggen & comments [youtube](https://www.youtube.com/watch?v=XUYCOm38SWY)
 - DOM en objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
 - functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)

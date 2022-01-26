@@ -10,7 +10,7 @@ let moviesSeries = ["The Shining", "Emily in Paris", "The Sinner", "Peaky Blinde
 ![Film ui](images/Film-ui.png)
 
 ## Je maakt gebruikt van
-- variabelen [youtube](https://www.youtube.com/watch?v=HfWaYjRrIM4)
+- variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
 - debuggen & comments [youtube](https://www.youtube.com/watch?v=XUYCOm38SWY)
 - DOM en objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
 - events [youtube](https://www.youtube.com/watch?v=6jYEabxJXxg)

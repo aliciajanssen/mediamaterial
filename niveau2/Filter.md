@@ -28,7 +28,7 @@ button30.addEventListener("click", filterMovies);
 ```
 
 ## Je maakt gebruikt van
-- variabelen [youtube](https://www.youtube.com/watch?v=HfWaYjRrIM4)
+- variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
 - debuggen & comments [youtube](https://www.youtube.com/watch?v=XUYCOm38SWY)
 - DOM en objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
 - functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)

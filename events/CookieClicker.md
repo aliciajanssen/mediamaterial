@@ -73,7 +73,7 @@ De cookie clicker kan je makkelijk uitbreiden met van alles. Denk aan:
 
 ## Je maakt gebruikt van
 - De DOM en Objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
-- Variabelen [youtube](https://www.youtube.com/watch?v=HfWaYjRrIM4)
+- Variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
 - Events [youtube](https://www.youtube.com/watch?v=6jYEabxJXxg)
 - Functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)
 - Scoping [youtube](https://www.youtube.com/watch?v=CD1prUUhisI)

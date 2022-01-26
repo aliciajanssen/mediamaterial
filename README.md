@@ -78,7 +78,7 @@
 ### Youtube instructies Alicia
 - [De introductie](https://www.youtube.com/watch?v=CO0v2RkxCVo)
 - [Getting Started](https://www.youtube.com/watch?v=9B_JTznnV04)
-- [Variabelen](https://www.youtube.com/watch?v=HfWaYjRrIM4)
+- [Variabelen](https://www.youtube.com/watch?v=oTKpXoqZims)
 - [Debuggen & comments](https://www.youtube.com/watch?v=XUYCOm38SWY)
 - [If Else Switch Statements](https://www.youtube.com/watch?v=ndXEEG3kZOU)
 - [Functions](https://www.youtube.com/watch?v=zC5cvaETdyQ)

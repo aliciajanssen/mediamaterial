@@ -17,7 +17,7 @@ Let op:
 - maak gebruik van events in het losse javascript bestand, niet in je html bestand
 
 ## Je maakt gebruik van
-- variabelen [youtube](https://www.youtube.com/watch?v=HfWaYjRrIM4)
+- variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
 - debuggen & comments [youtube](https://www.youtube.com/watch?v=XUYCOm38SWY)
 - if else statements  [youtube](https://www.youtube.com/watch?v=ndXEEG3kZOU)
 - functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)

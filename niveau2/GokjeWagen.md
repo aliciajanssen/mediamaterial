@@ -12,7 +12,7 @@ _Tip: maak eerst een stappenplan met wat de applicatie moet doen. Een begin:_
 _Tip 2: je moet gebruik maken van een while loop.. zolang de computer niet het juiste getal raadt dan..._
 
 ## Je maakt gebruikt van
-- variabelen [youtube](https://www.youtube.com/watch?v=HfWaYjRrIM4)
+- variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
 - debuggen & comments [youtube](https://www.youtube.com/watch?v=XUYCOm38SWY)
 - DOM en objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
 - functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)
