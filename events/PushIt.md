@@ -24,8 +24,8 @@ Succes!
 
 ## Je maakt gebruikt van
 - De DOM en Objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
-- Variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
+- Variabelen [youtube](https://www.youtube.com/watch?v=A6YVhg9GgPE)
 - Events [youtube](https://www.youtube.com/watch?v=6jYEabxJXxg)
-- Functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)
+- Functions [youtube](https://www.youtube.com/watch?v=lleIeTMaFRo)
 - Javascript HTML DOM EventListener [w3schools](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 - Play method [w3schools] (https://www.w3schools.com/tags/av_met_play.asp)

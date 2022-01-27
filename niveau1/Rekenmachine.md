@@ -7,7 +7,7 @@ Maak een simpele rekenmachine. Gebruik hiervoor twee textvelden, een dropdown (k
 Tip: Begin eerst met alleen het berekenen met de som (+) van de twee getallen, daarna pas de dropdown toevoegen.
 
 ## Je maakt gebruikt van
-- variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
+- variabelen [youtube](https://www.youtube.com/watch?v=A6YVhg9GgPE)
 - debuggen & comments [youtube](https://www.youtube.com/watch?v=XUYCOm38SWY)
 - DOM en objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
 - events [youtube](https://www.youtube.com/watch?v=6jYEabxJXxg)

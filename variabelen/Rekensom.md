@@ -21,5 +21,5 @@ Maak nog de twee variabele uitkomst2 en uitkomst3 aan. Maak hier de berekening c
 
 ## Je maakt gebruikt van
 - Getting Started [youtube](https://www.youtube.com/watch?v=9B_JTznnV04)
-- Variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
+- Variabelen [youtube](https://www.youtube.com/watch?v=A6YVhg9GgPE)
 - HTML DOM console.log() method [w3schools](https://www.w3schools.com/jsref/met_console_log.asp)

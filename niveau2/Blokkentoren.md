@@ -38,10 +38,10 @@ Genereer eerst de blokjes zonder achtergrondkleur. Je zou gebruik kunnen maken v
 Om de achtergrond kleur aan te passen, zou je naar de [Background generator](../niveau1/BackgroundGenerator.md) opdracht kunnen kijken.
 
 ## Je maakt gebruikt van
-- variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
+- variabelen [youtube](https://www.youtube.com/watch?v=A6YVhg9GgPE)
 - debuggen & comments [youtube](https://www.youtube.com/watch?v=XUYCOm38SWY)
 - DOM en objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
-- functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)
+- functions [youtube](https://www.youtube.com/watch?v=lleIeTMaFRo)
 -  loops [youtube](https://www.youtube.com/watch?v=8wJPgDNwxtE)
 -  random number [w3schools](https://www.w3schools.com/js/js_random.asp)
 -  createElement [w3schools](https://www.w3schools.com/jsref/met_document_createelement.asp)

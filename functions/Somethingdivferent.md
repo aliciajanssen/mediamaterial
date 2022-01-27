@@ -5,11 +5,9 @@ Maak een webapplicatie met de function "GenerateDIV". Met deze function wordt er
 ```javascript
 let field = document.getElementById("field");
 
-
-function GenerateDIV()
-{
+const GenerateDIV = function() {
 	//genereer div
-}
+};
 
 let div = GenerateDIV();
 
@@ -23,7 +21,7 @@ Zorg er nu voor dat je als parameter een kleur voor de div kan meegeven. Wanneer
 let field = document.getElementById("field");
 
 //bgColor is parameter
-function GenerateDIV(bgColor)
+const GenerateDIV = function() {
 {
 	//genereer div
 }
@@ -37,7 +35,7 @@ field.appendChild(div);
 Breid dit uit met andere parameters zoals positie of formaat van de div.
 
 ## Je maakt gebruikt van
-- Functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)
+- Functions [youtube](https://www.youtube.com/watch?v=lleIeTMaFRo)
+- Net Ninja - Modern Javascript - Functions [youtube](https://www.youtube.com/watch?v=xUI5Tsl2JpY)
 - De DOM en Objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
 - createElement [w3schools](https://www.w3schools.com/jsref/met_document_createelement.asp)
-- Javascript Functions [w3schools](https://www.w3schools.com/js/js_functions.asp)

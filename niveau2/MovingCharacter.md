@@ -29,9 +29,9 @@ Positioneer de playfield en psyduck absolute zodat je psyduck makkelijker kan la
 Maak een [addEventListener](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_onkeydown_addeventlistener) aan die bij keydown de Psyduck laat rondbewegen.
 
 ## Je maakt gebruikt van
-- variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
+- variabelen [youtube](https://www.youtube.com/watch?v=A6YVhg9GgPE)
 - debuggen & comments [youtube](https://www.youtube.com/watch?v=XUYCOm38SWY)
 - DOM en objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
-- functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)
+- functions [youtube](https://www.youtube.com/watch?v=lleIeTMaFRo)
 - events [youtube](https://www.youtube.com/watch?v=6jYEabxJXxg)
 - event keydown [w3schools](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_onkeydown_addeventlistener)

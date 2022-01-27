@@ -7,9 +7,9 @@ Maak een muziekspeler webapplicatie. In deze muziekspeler staan een aantal songs
 Door op de song te klikken wordt de song gekozen. Wanneer er op play wordt geklikt begint de song te spelen. Als er op stop wordt geklikt, pauzeert de song. Maak gebruik van het [HTML DOM Audio Object](https://www.w3schools.com/jsref/dom_obj_audio.asp)
 
 ## Je maakt gebruikt van
-- variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
+- variabelen [youtube](https://www.youtube.com/watch?v=A6YVhg9GgPE)
 - debuggen & comments [youtube](https://www.youtube.com/watch?v=XUYCOm38SWY)
 - DOM en objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
 - events [youtube](https://www.youtube.com/watch?v=6jYEabxJXxg)
-- functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)
+- functions [youtube](https://www.youtube.com/watch?v=lleIeTMaFRo)
 - HTML DOM Audio Object [w3schools](https://www.w3schools.com/jsref/dom_obj_audio.asp)

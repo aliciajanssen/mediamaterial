@@ -15,10 +15,10 @@ Breid dit uit door aan te geven of het ochtend, middag, avond of nacht is. Hierv
 ![Digitale klok ui](images/Clock-ui.png)
 
 ## Je maakt gebruikt van
-- variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
+- variabelen [youtube](https://www.youtube.com/watch?v=A6YVhg9GgPE)
 - debuggen & comments [youtube](https://www.youtube.com/watch?v=XUYCOm38SWY)
 - DOM en objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
-- functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)
+- functions [youtube](https://www.youtube.com/watch?v=lleIeTMaFRo)
 - Javascript getHours() method[w3schools](https://www.w3schools.com/jsref/jsref_gethours.asp)
 - Javascript getMinutes() method[w3schools](https://www.w3schools.com/jsref/jsref_getminutes.asp)
 - Javascript getSeconds() method[w3schools](https://www.w3schools.com/jsref/jsref_getseconds.asp)

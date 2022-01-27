@@ -41,3 +41,10 @@ Vol vurige groeten,
 
 
 Je mag natuurlijk ook zelf een dichtje verzinnen!
+
+## Je maakt gebruikt van:
+- variabelen [youtube](https://www.youtube.com/watch?v=A6YVhg9GgPE)
+- debuggen & comments [youtube](https://www.youtube.com/watch?v=XUYCOm38SWY)
+- DOM en objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
+- events [youtube](https://www.youtube.com/watch?v=6jYEabxJXxg)
+- functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)

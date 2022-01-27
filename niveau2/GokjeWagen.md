@@ -12,10 +12,10 @@ _Tip: maak eerst een stappenplan met wat de applicatie moet doen. Een begin:_
 _Tip 2: je moet gebruik maken van een while loop.. zolang de computer niet het juiste getal raadt dan..._
 
 ## Je maakt gebruikt van
-- variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
+- variabelen [youtube](https://www.youtube.com/watch?v=A6YVhg9GgPE)
 - debuggen & comments [youtube](https://www.youtube.com/watch?v=XUYCOm38SWY)
 - DOM en objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
-- functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)
+- functions [youtube](https://www.youtube.com/watch?v=lleIeTMaFRo)
 -  loops [youtube](https://www.youtube.com/watch?v=8wJPgDNwxtE)
 -  while loops [w3schools](https://www.w3schools.com/js/js_loop_while.asp)
 -  random number [w3schools](https://www.w3schools.com/js/js_random.asp)

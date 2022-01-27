@@ -14,9 +14,9 @@ Let op:
 - maak gebruik van events in het losse javascript bestand, niet in je html bestand
 
 ## Je maakt gebruikt van
-- variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
+- variabelen [youtube](https://www.youtube.com/watch?v=A6YVhg9GgPE)
 - debuggen & comments [youtube](https://www.youtube.com/watch?v=XUYCOm38SWY)
-- functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)
+- functions [youtube](https://www.youtube.com/watch?v=lleIeTMaFRo)
 - DOM en objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
 - events [youtube](https://www.youtube.com/watch?v=6jYEabxJXxg)
 - arrays [youtube](https://www.youtube.com/watch?v=Z-l1IAbq3qg)

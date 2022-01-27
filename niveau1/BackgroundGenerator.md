@@ -5,7 +5,7 @@ In plaats van hex colors gebruik je hiervoor [RGB colors](https://www.w3schools.
 ![Background ui](images/Background-ui.png)
 
 ## Je maakt gebruikt van
-- variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
+- variabelen [youtube](https://www.youtube.com/watch?v=A6YVhg9GgPE)
 - debuggen & comments [youtube](https://www.youtube.com/watch?v=XUYCOm38SWY)
 - DOM en objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
 - events [youtube](https://www.youtube.com/watch?v=6jYEabxJXxg)

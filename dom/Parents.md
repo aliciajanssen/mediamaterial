@@ -34,8 +34,10 @@ Haal met de [children](https://www.w3schools.com/jsref/prop_element_children.asp
 
 ## Je maakt gebruikt van
 - De DOM en Objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
+- De DOM Uitbreiding [youtube](https://www.youtube.com/watch?v=IrjSvQDvWDc)
 - Arrays [youtube](https://www.youtube.com/watch?v=Z-l1IAbq3qg)
 - HTML DOM getElementById() Method [w3schools](https://www.w3schools.com/jsref/met_document_getelementbyid.asp)
+- HTML querySelector [w3schools](https://www.w3schools.com/jsref/met_document_queryselector.asp)
 - HTML DOM parentElement [w3schools](https://www.w3schools.com/jsref/prop_node_parentelement.asp)
 - HTML DOM children Property [w3schools](https://www.w3schools.com/jsref/prop_element_children.asp)
 - HTML DOM innerHTML [w3schools](https://www.w3schools.com/jsref/prop_html_innerhtml.asp)

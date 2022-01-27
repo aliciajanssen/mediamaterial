@@ -18,7 +18,7 @@ Wanneer dit is gelukt, moet je ervoor zorgen dat er wanneer er op de knop wordt 
 ## Je maakt gebruikt van
 - De DOM en Objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
 - Events [youtube](https://www.youtube.com/watch?v=6jYEabxJXxg)
-- Functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)
+- Functions [youtube](https://www.youtube.com/watch?v=lleIeTMaFRo)
 - createElement [w3schools](https://www.w3schools.com/jsref/met_document_createelement.asp)
 - loop [w3schools](https://www.w3schools.com/js/js_loop_for.asp)
 - addEventListener [w3schools](https://www.w3schools.com/jsref/met_document_addeventlistener.asp)

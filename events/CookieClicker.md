@@ -73,9 +73,9 @@ De cookie clicker kan je makkelijk uitbreiden met van alles. Denk aan:
 
 ## Je maakt gebruikt van
 - De DOM en Objecten [youtube](https://www.youtube.com/watch?v=k81rBKqwDhU)
-- Variabelen [youtube](https://www.youtube.com/watch?v=oTKpXoqZims)
+- Variabelen [youtube](https://www.youtube.com/watch?v=A6YVhg9GgPE)
 - Events [youtube](https://www.youtube.com/watch?v=6jYEabxJXxg)
-- Functions [youtube](https://www.youtube.com/watch?v=zC5cvaETdyQ)
+- Functions [youtube](https://www.youtube.com/watch?v=lleIeTMaFRo)
 - Scoping [youtube](https://www.youtube.com/watch?v=CD1prUUhisI)
 - KeyboardEvent.key [developer mozilla](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key)
 - Keydown event [developer mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event)
