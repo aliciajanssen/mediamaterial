@@ -40,6 +40,9 @@
 - [Cookie clicker](events/CookieClicker)
 - [Easter Eggs](events/EasterEgg) 
 
+#### Eigen objects
+- [Dierentuin](objects/Dierentuin)
+
 ### Gecombineerde opdrachten per niveau
 
 #### Niveau *
