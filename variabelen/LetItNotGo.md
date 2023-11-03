@@ -9,10 +9,10 @@ In een magisch koninkrijk genaamd Arendelle staat een koninklijke aankomst voor 
 - Voeg decoratieve elementen, zoals sneeuwvlokken, toe aan de begroeting nog mooier te maken.
 - Combineer de begroeting met de koning(in)naam en toon deze in de console.
 
-## Uitvoering:
+## Uitvoering
 - Het doel is om een begroeting te creëren die de aankomst van de koning(in) in het koninkrijk van Arendelle aankondigt, met een decoratief Frozen-thema.
 - Zorg ervoor dat de begroeting en decoratieve elementen samenkomen en correct worden weergegeven in de console.
 
-**Extra uitdagingen:**
+## Extra uitdagingen
 - Probeer verschillende koning(in)namen en pas de begroeting aan om het effect van het Frozen-thema te verkennen.
 - Experimenteer met meerdere decoratieve elementen om de begroeting verder aan te kleden.
