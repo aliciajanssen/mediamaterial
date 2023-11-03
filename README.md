@@ -11,6 +11,7 @@
 #### Variabelen
 - [Hello Naam](variabelen/HelloName)
 - [Rekensom](variabelen/Rekensom)
+- [Webwinkel Bearly There](variabelen/BearlyThere)
 
 #### If/else switch statements
 - [Jij bent oud!](keuzestructuren/YouAreOld)
