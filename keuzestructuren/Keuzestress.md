@@ -22,3 +22,7 @@ let eetVoorkeur = "Veganistisch"; // Keuzes: "Vegetarisch", "Veganistisch", "Vle
 - Probeer verschillende eetvoorkeuren om te zien welk gerecht het programma aanbeveelt.
 - Voeg meer gerechten toe voor andere eetvoorkeuren om het aanbevelingssysteem uit te breiden.
 - Maak hier een webpagina van.
+
+## Je maakt gebruikt van
+- If Else Switch [youtube](https://www.youtube.com/watch?v=ndXEEG3kZOU)
+- Javascript is else [w3schools](https://www.w3schools.com/js/js_if_else.asp)

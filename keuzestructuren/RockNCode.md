@@ -34,3 +34,6 @@ if (gitaarType === "Elektrische") {
 - Experimenteer met verschillende gitaartypes en versterkercompatibiliteiten om te zien hoe het de rock-'n-roll-vibe beïnvloedt.
 - Voeg een rockende dosis humor toe aan de uitvoerberichten om de sfeer van de rockshow te versterken!
 
+## Je maakt gebruikt van
+- If Else Switch [youtube](https://www.youtube.com/watch?v=ndXEEG3kZOU)
+- Javascript is else [w3schools](https://www.w3schools.com/js/js_if_else.asp)

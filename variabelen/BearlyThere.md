@@ -35,4 +35,9 @@ Gebruik `console.log` om het totale bedrag van de knuffelberen in de winkelwagen
 
 Deze opdracht is bedoeld om je te helpen oefenen met het gebruik van variabelen in JavaScript voor het beheren van verschillende groottes knuffelberen in een winkelwagen. Pas de waarden aan en experimenteer om verschillende scenario's te testen.
 
+## Je maakt gebruikt van
+- Getting Started [youtube](https://www.youtube.com/watch?v=9B_JTznnV04)
+- Variabelen [youtube](https://www.youtube.com/watch?v=A6YVhg9GgPE)
+- HTML DOM console.log() method [w3schools](https://www.w3schools.com/jsref/met_console_log.asp)
+
 ![bearly there](images/bearlyThere.jpg)

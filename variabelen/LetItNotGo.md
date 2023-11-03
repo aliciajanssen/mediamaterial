@@ -16,3 +16,9 @@ In een magisch koninkrijk genaamd Arendelle staat een koninklijke aankomst voor 
 ## Extra uitdagingen
 - Probeer verschillende koning(in)namen en pas de begroeting aan om het effect van het Frozen-thema te verkennen.
 - Experimenteer met meerdere decoratieve elementen om de begroeting verder aan te kleden.
+
+## Je maakt gebruik van:
+- Getting Started [youtube](https://www.youtube.com/watch?v=9B_JTznnV04)
+- Variabelen [youtube](https://www.youtube.com/watch?v=A6YVhg9GgPE)
+- Variabelen [w3schools](https://www.w3schools.com/js/js_variables.asp)
+- Net Ninja - Modern Javascript Tutorial - Syntax Basics & Types [youtube](https://www.youtube.com/watch?v=FhguwBJeqWs)
