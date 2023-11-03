@@ -19,6 +19,7 @@
 - [The Name of the Game](keuzestructuren/TheNameOfTheGame)
 - [Rock 'n Code!](keuzestructuren/RockNCode)
 - [Spooky](keuzestructuren/Spooky)
+- [Keuzestress met eten](keuzestructuren/Keuzestress)
 
 #### Functions
 - [Aan de oppervlakte](functions/Oppervlakte)
