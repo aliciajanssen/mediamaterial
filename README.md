@@ -17,6 +17,7 @@
 #### If/else switch statements
 - [Jij bent oud!](keuzestructuren/YouAreOld)
 - [The Name of the Game](keuzestructuren/TheNameOfTheGame)
+- [Rock 'n Code!](keuzestructuren/RockNCode)
 - [Spooky](keuzestructuren/Spooky)
 
 #### Functions
