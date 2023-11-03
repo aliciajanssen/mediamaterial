@@ -1,6 +1,5 @@
 # Webwinkelwagen Bearly There
 
-## Doel  
 Het is tijd om de knuffelberenbusiness serieus te nemen! Dit is een opdracht waarbij je de cash in de gaten gaat houden met wat harige vrienden. Je gaat berekenen hoeveel geld die schattige pluizige beren in onze winkelkarretjes waard zijn. Denk aan die kleine, middelgrote en grote beren.
 
 ## Stappenplan
